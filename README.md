@@ -30,4 +30,4 @@ git remote add origin https://github.com/shobanaPattan/Main.git            //Giv
 
 git remote -v                             //TO print the repository url
 
-git push -u main                          //To push the committed files
+git push origin main                          //To push the committed files
