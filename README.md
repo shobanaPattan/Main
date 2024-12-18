@@ -1,8 +1,13 @@
-STEPS TO PULL AND PUSH THE PROJECT:
+STEPS TO PULL AND PUSH THE PROJECT:  
+
 mkdir name_folder           //Give a name to pull the project
+
 cd name_folder      
+
 pwd                         //To check the path of the pulled project
+
 mkdir name_newFoldername    //Give a name to the folder to pull the project
+
 cd name_newFolder
 pwd                         //To check the path of the pulled project
 git init                    //Initialize the empty .git repository
